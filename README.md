@@ -2,6 +2,7 @@
 
 За основу взята обработка с GitHub:
 https://github.com/EvilBeaver/v8asm
+
 Автор этой обработки описывает работу 1С на уровне байт-кода здесь:
 https://habr.com/ru/post/489392/
 
